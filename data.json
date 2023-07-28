@@ -1,0 +1,402 @@
+[
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/star-pc/intel/star-pc-12th-gen-i9-12900k-01-500x500.webp",
+    "productName": "Intel Core i9-11900K",
+    "category": "CPU / Processor",
+    "status": 1,
+    "price": 499,
+    "description": "Powerful processor for high-performance computing.",
+    "keyFeature": "8 cores, 16 threads, 3.50 GHz base clock",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "This processor is a beast!"
+      },
+      {
+        "body": "Handles heavy tasks with ease."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/star-pc/intel/ryzen-9-5900x-gaming-pc-02-500x500.webp",
+    "productName": "AMD Ryzen 9 5900X",
+    "category": "CPU / Processor",
+    "status": 1,
+    "price": 549,
+    "description": "Top-tier processor for gaming and content creation.",
+    "keyFeature": "12 cores, 24 threads, 3.70 GHz base clock",
+    "individualRating": 5,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "The performance is mind-blowing!"
+      },
+      {
+        "body": "Great choice for multitasking."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/star-pc/intel/12th-gen-core-i9-12900k-gaming-pc-02-500x500.webp",
+    "productName": "Intel Core i7-11700F",
+    "category": "CPU / Processor",
+    "status": 1,
+    "price": 349,
+    "description": "Excellent processor for gaming and everyday tasks.",
+    "keyFeature": "8 cores, 16 threads, 2.50 GHz base clock",
+    "individualRating": 4,
+    "averageRating": 3,
+    "review": [
+      {
+        "body": "A solid performer at a reasonable price."
+      },
+      {
+        "body": "Runs cool and fast."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-strix-z590-f-gaming-wi-fi/rog-strix-z590-f-gaming-wi-fi-500x500.jpg",
+    "productName": "ASUS ROG Strix Z590-E",
+    "category": "Motherboard",
+    "status": 1,
+    "price": 299,
+    "description": "High-end motherboard with great overclocking capabilities.",
+    "keyFeature": "LGA 1200 socket, ATX form factor",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "A feature-rich motherboard for enthusiasts."
+      },
+      {
+        "body": "Love the aesthetics and performance."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b550-aorus-pro/b550-aorus-pro-500x500.jpg",
+    "productName": "GIGABYTE B550 AORUS Pro",
+    "category": "Motherboard",
+    "status": 1,
+    "price": 189,
+    "description": "Reliable motherboard for mid-range builds.",
+    "keyFeature": "AM4 socket, ATX form factor",
+    "individualRating": 4,
+    "averageRating": 3,
+    "review": [
+      {
+        "body": "A solid choice for gaming and productivity."
+      },
+      {
+        "body": "Plenty of connectivity options."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/mag-b660m-mortar-wifi-ddr4/mag-b660m-mortar-wifi-ddr4-01-500x500.jpg",
+    "productName": "MSI MAG B460M Mortar",
+    "category": "Motherboard",
+    "status": 1,
+    "price": 119,
+    "description": "Compact motherboard for budget-friendly builds.",
+    "keyFeature": "LGA 1200 socket, Micro-ATX form factor",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Perfect for small form factor builds."
+      },
+      {
+        "body": "Simple and reliable."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-500x500.png",
+    "productName": "Corsair Vengeance LPX 16GB DDR4",
+    "category": "RAM",
+    "status": 1,
+    "price": 89,
+    "description": "Fast and reliable DDR4 RAM for gaming.",
+    "keyFeature": "16GB capacity, 3200MHz speed",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Great RAM for the price."
+      },
+      {
+        "body": "Reliable and overclocks well."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z-neo/trident-z-neo-001-500x500.jpg",
+    "productName": "G.Skill Trident Z RGB 32GB DDR4",
+    "category": "RAM",
+    "status": 1,
+    "price": 189,
+    "description": "High-performance DDR4 RAM with RGB lighting.",
+    "keyFeature": "32GB capacity, 3600MHz speed",
+    "individualRating": 5,
+    "averageRating": 5,
+    "review": [
+      {
+        "body": "Stylish and fast RAM for enthusiasts."
+      },
+      {
+        "body": "RGB lighting looks fantastic."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/4gb-ddr4-2666mhz/4gb-ddr4-2666mhz-1-500x500.jpg",
+    "productName": "Crucial Ballistix 8GB DDR4",
+    "category": "RAM",
+    "status": 1,
+    "price": 49,
+    "description": "Affordable DDR4 RAM for basic computing needs.",
+    "keyFeature": "8GB capacity, 2666MHz speed",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Decent RAM for everyday tasks."
+      },
+      {
+        "body": "Good value for the money."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/evga/supernova-2000-g1-plus/supernova-2000-g1-plus-01-500x500.webp",
+    "productName": "EVGA SuperNOVA 750 G+",
+    "category": "Power Supply Unit",
+    "status": 1,
+    "price": 129,
+    "description": "High-quality power supply for gaming rigs.",
+    "keyFeature": "750W wattage, 80+ Gold efficiency",
+    "individualRating": 5,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Reliable and efficient PSU."
+      },
+      {
+        "body": "Handles overclocking well."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/rm850x/rm850x-500x500.jpg",
+    "productName": "Corsair RM850x",
+    "category": "Power Supply Unit",
+    "status": 0,
+    "price": 159,
+    "description": "High-performance power supply with modular cables.",
+    "keyFeature": "850W wattage, 80+ Gold efficiency",
+    "individualRating": 5,
+    "averageRating": 5,
+    "review": [
+      {
+        "body": "Stable and quiet operation."
+      },
+      {
+        "body": "Perfect for high-end systems."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/e1-500/e1-500-500x500.png",
+    "productName": "Gamdias Kratos E1-500 500 Watt RGB Power Supply",
+    "category": "Power Supply Unit",
+    "status": 1,
+    "price": 69,
+    "description": "Affordable and reliable power supply for budget builds.",
+    "keyFeature": "500W wattage, 80+ Bronze efficiency",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Great value for the price."
+      },
+      {
+        "body": "Handles mid-range setups well."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/970-evo-plus-1tb/970-evo-plus-1tb-500x500.jpg",
+    "productName": "Samsung 970 EVO Plus 1TB NVMe SSD",
+    "category": "Storage Device",
+    "status": 1,
+    "price": 189,
+    "description": "High-speed NVMe SSD for blazing-fast storage.",
+    "keyFeature": "1TB capacity, NVMe PCIe 3.0 x4 interface",
+    "individualRating": 5,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Super-fast and reliable SSD."
+      },
+      {
+        "body": "Ideal for gaming and content creation."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/hdd/western-digital/wd-2tb-blue/wd-2tb-blue-02-500x500.webp",
+    "productName": "Western Digital Blue 2TB HDD",
+    "category": "Storage Device",
+    "status": 1,
+    "price": 64,
+    "description": "High-capacity HDD for mass storage needs.",
+    "keyFeature": "2TB capacity, SATA 6Gb/s interface",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Reliable storage for large files."
+      },
+      {
+        "body": "Great for backups and media storage."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-120/barracuda-120-001-500x500.jpg",
+    "productName": "Seagate BarraCuda 500GB SSD",
+    "category": "Storage Device",
+    "status": 0,
+    "price": 89,
+    "description": "Affordable SSD for everyday computing tasks.",
+    "keyFeature": "500GB capacity, SATA 6Gb/s interface",
+    "individualRating": 5,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Good speed and responsiveness."
+      },
+      {
+        "body": "Perfect for upgrading old laptops."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27ul850-w/27ul850-w-500x500.jpg",
+    "productName": "LG 27GL850-B",
+    "category": "Monitor",
+    "status": 1,
+    "price": 499,
+    "description": "High-refresh-rate gaming monitor with QHD resolution.",
+    "keyFeature": "27 inches, 2560x1440 resolution, 144Hz refresh rate",
+    "individualRating": 3,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Smooth gaming experience with minimal motion blur."
+      },
+      {
+        "body": "Great colors and contrast."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/asus/pg278qe/pg278qe-1-500x500.jpg",
+    "productName": "ASUS ROG Swift PG279Q",
+    "category": "Monitor",
+    "status": 1,
+    "price": 649,
+    "description": "Premium gaming monitor with high refresh rate and G-Sync.",
+    "keyFeature": "27 inches, 2560x1440 resolution, 165Hz refresh rate",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Amazing gaming monitor for competitive play."
+      },
+      {
+        "body": "G-Sync makes a significant difference."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-500x500.jpg",
+    "productName": "Acer R240HY",
+    "category": "Monitor",
+    "status": 1,
+    "price": 129,
+    "description": "Affordable Full HD monitor for everyday use.",
+    "keyFeature": "23.8 inches, 1920x1080 resolution, 60Hz refresh rate",
+    "individualRating": 4,
+    "averageRating": 3,
+    "review": [
+      {
+        "body": "Great value for the price."
+      },
+      {
+        "body": "Perfect for office work and casual browsing."
+      }
+    ]
+  },
+
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/keyboard/dareu/ek87/ek87-01-500x500.jpg",
+    "productName": "Dareu EK87 Mechanical Gaming Keyboard",
+    "category": "Others",
+    "status": 1,
+    "price": 129,
+    "description": "High-quality mechanical keyboard for gaming enthusiasts.",
+    "keyFeature": "GX Blue Clicky switches, customizable lighting",
+    "individualRating": 4,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Responsive and tactile switches."
+      },
+      {
+        "body": "Perfect for gaming and typing."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/mouse/razer/viper-mini/viper-mini-01-500x500.jpg",
+    "productName": "Razer DeathAdder V2 Gaming Mouse",
+    "category": "Others",
+    "status": 1,
+    "price": 69.95,
+    "description": "High-precision gaming mouse with customizable RGB lighting.",
+    "keyFeature": "20,000 DPI optical sensor, ergonomic design",
+    "individualRating": 5,
+    "averageRating": 4,
+    "review": [
+      {
+        "body": "Comfortable grip and smooth tracking."
+      },
+      {
+        "body": "Great for FPS and MOBA games."
+      }
+    ]
+  },
+  {
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/hyperx/cloud-ii/cloud-ii-500x500.jpg",
+    "productName": "HyperX Cloud II Gaming Headset",
+    "category": "Others",
+    "status": 0,
+    "price": 99,
+    "description": "Premium gaming headset with 7.1 virtual surround sound.",
+    "keyFeature": "Memory foam ear cups, detachable noise-canceling microphone",
+    "individualRating": 5,
+    "averageRating": 3,
+    "review": [
+      {
+        "body": "Clear and immersive sound quality."
+      },
+      {
+        "body": "Comfortable for long gaming sessions."
+      }
+    ]
+  }
+]
