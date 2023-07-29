@@ -16,7 +16,7 @@ type IOptionsResult = {
 };
 const calulatePagination = (options: IOptions): IOptionsResult => {
   const page = Number(options.page || 1);
-  const limit = Number(options.limit || 10);
+  const limit = Number(options.limit || 30);
   const sortBy = options.sortBy || 'createAt';
   const sortOrder = options.sortOrder || 'desc';
 
